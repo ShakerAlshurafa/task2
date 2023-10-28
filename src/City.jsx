@@ -11,6 +11,10 @@ export default function City() {
     {image:jenin,name:'Jenin',victims:4,injuries:'-----'},
     {image:tulkarem,name:'Tulkarem',victims:22,injuries:'-----'},
     {image:nablus,name:'Nablus',victims:14,injuries:'-----'},
+    {image:gaza,name:'Gaza',victims:5087,injuries:15287},
+    {image:jenin,name:'Jenin',victims:4,injuries:'-----'},
+    {image:tulkarem,name:'Tulkarem',victims:22,injuries:'-----'},
+    {image:nablus,name:'Nablus',victims:14,injuries:'-----'},
   ];
 
   return (
