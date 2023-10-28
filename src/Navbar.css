@@ -1,0 +1,9 @@
+a{
+    color: white !important;
+}
+.dropdown-menu a{
+    color: black !important;
+}
+.navbar-brand img{
+    width: 15%;
+}

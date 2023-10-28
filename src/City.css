@@ -1,0 +1,10 @@
+.card{
+    width: 24.5% !important;
+}
+.card-title:hover{
+    color: red;
+    cursor: pointer;
+}
+.card-img{
+    height: 220px;
+}
